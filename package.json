@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "start":"node server.js"
+    },
+    "name": "api_in_node",
+    "version": "1.0.0"
+}
